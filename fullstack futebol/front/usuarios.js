@@ -23,7 +23,7 @@ function carregarUsuarios() {
                             <strong>Sexo:</strong> ${usuario.sexo}<br>
                             <strong>Idade:</strong> ${usuario.idade}<br>
                             <strong>Altura:</strong> ${usuario.altura}<br>
-                            <strong>Peso:</strong> ${usuario.peso}
+                            <strong>Peso:</strong> ${usuario.peso}<br>
                             <strong>Posicao:</strong> ${usuario.posicao}<br>
                             <strong>Numero:</strong> ${usuario.numero}`
                             
